@@ -7,7 +7,7 @@ Over the years, I’ve built backend services, bots, utility tools, and AI-assis
 ---
 
 ## 🧰 What I Work With
-- **Languages:** Java, TypeScript, PHP, C (sometimes 😉)
+- **Languages:** PHP, TypeScript, Java, C (sometimes 😉)
 - **Frameworks:** Spring Boot, Symfony, Hugo
 - **DevOps, Tools & Infra:** Docker, GitHub Actions, Parcel
 - **Experiments:** Ollama, Hugging Face, Telegram Bots
