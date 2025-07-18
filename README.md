@@ -1,3 +1,9 @@
+```
+┏━╸┏━╸┏━┓╻ ╻┏━┓┏━┓
+┃  ┣╸ ┣━┛┣━┫┣┳┛┣━┫
+┗━╸┗━╸╹  ╹ ╹╹┗╸╹ ╹
+```
+
 # 👋 Hello, I'm Chris (Christian Frantzen)
 
 I'm a full-stack developer based near Cologne, Germany.
