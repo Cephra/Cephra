@@ -20,7 +20,7 @@
 
 I'm a full-stack developer based near Cologne, Germany.
 
-Over the years, I’ve built backend services, bots, utility tools, and AI-assisted apps, driven by my curiosity and a focus on solving real-world problems with code.
+I build backend services, bots, utility tools, and AI-assisted apps, with a focus on solving real-world problems through pragmatic engineering.
 
 ---
 
@@ -32,14 +32,14 @@ Over the years, I’ve built backend services, bots, utility tools, and AI-assis
 
 ---
 
-## 📌 Pinned Projects
-Check out the pinned repos below for a snapshot of what I’ve built 👇  
-
----
+## 🚀 What I’m Focused On
+- Building practical tools with clean architecture and minimal complexity.
+- Exploring applied AI workflows and automation.
+- Shipping useful software consistently.
 
 ## 🧠 A Bit About Me
 - I like clean architecture, pragmatic tooling, and real results.
 - I build solo, but I think in systems.
 - Always learning, especially around automation and applied AI.
 
-Thanks for dropping by 👋
+Thanks for visiting 👋
