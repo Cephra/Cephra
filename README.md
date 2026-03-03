@@ -24,6 +24,18 @@ I build backend services, bots, utility tools, and AI-assisted apps, with a focu
 
 ---
 
+## 🏷️ Badges
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFCD1E?style=flat-square&logo=huggingface&logoColor=black)
+
+---
+
 ## 🧰 What I Work With
 - **Languages:** PHP, TypeScript, Java, C (sometimes 😉)
 - **Frameworks:** Spring Boot, Symfony, Hugo
