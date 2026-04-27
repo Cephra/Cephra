@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Chris (Christian Frantzen)
 
-I'm a full-stack developer based near Cologne, Germany.
+I'm a senior full-stack developer based near Cologne, Germany.
 
 I build backend services, bots, utility tools, and AI-assisted apps, with a focus on solving real-world problems through pragmatic engineering.
 
